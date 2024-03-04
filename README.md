@@ -13,7 +13,7 @@ This project is a Node.js application that uses the Axios library to fetch rando
 
 2. **Navigate to the project directory**:
     ```bash
-    cd 5.3-axios
+    cd Axios-Im-Bored-Api-project
     ```
 
 3. **Install dependencies**:
