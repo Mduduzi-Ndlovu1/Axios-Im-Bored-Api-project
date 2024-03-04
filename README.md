@@ -8,7 +8,7 @@ This project is a Node.js application that uses the Axios library to fetch rando
 
 1. **Clone the repository**: 
     ```bash
-    git clone https://github.com/Mduduzi-Ndlovu1/5.3-axios.git
+    git clone https://github.com/Mduduzi-Ndlovu1/Axios-Im-Bored-Api-project.git
     ```
 
 2. **Navigate to the project directory**:
